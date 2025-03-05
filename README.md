@@ -2,19 +2,12 @@
 
 A React Native mobile application for food ordering with multiple screens and features.
 
-## Screenshots
-
-![Alt text](./assets/screenshot1.png?raw=true)
-![Alt text](./assets/screenshot2.png?raw=true)
-
 ## Features
 
 - **Login Screen**: User authentication interface
-- **OTP Verification**: Secure verification process
-- **Home Screen**: Browse restaurants and food items
-- **Restaurant Details**: View restaurant information and menu
-- **Item Details**: Detailed view of food items
-- **Cart**: Manage selected items and checkout
+- **Home Screen**: Listing of Events.
+- **Event Details**: Event Details mentioned in the specified screen
+- **Select Seats**: Choose your seats and pay accordingly.
 
 ## Installation
 
@@ -48,10 +41,3 @@ npm run android
 
 ## Development Status
 
-Current version includes all core features with six main screens:
-- Login
-- OTP Verification
-- Home
-- Restaurant Details
-- Item Details
-- Cart
